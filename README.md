@@ -4,5 +4,5 @@ The vizualization comprises of field map, bar chart, line graph and a text table
 Text Table: Gives the global count of total cases,deaths and death %
 Bar chart : Shows the distribution of total deaths per continent
 Line Graph : Shows the avg % population infected (only selected countries) over period
-Feild Map : Shows country wise % population infected distribution
+Feild Map : Shows country wise % population infected distribution also forecast for next one year
 
